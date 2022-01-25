@@ -4,7 +4,9 @@
 First Project building Website using HTML &amp; CSS
 
 
-SUMMARY
+<img width="1227" alt="Screen Shot 2022-01-25 at 10 23 07 AM" src="https://user-images.githubusercontent.com/95507674/151036228-b80f91a5-a62f-48cb-81dc-ffdf36e05abe.png">
+
+Summary
 
 The biggest challenge for me on this first project was learning to actually start building in an open environment compared to before when I was learning to code within the closed-environment of a structured course.  
 
@@ -12,4 +14,4 @@ I easily spent more time learning about the environment and the tools compared t
 
 Author
 
-Andy Wang - Full Stack Software Developer In Training - Website | Linkedin
+Andy Wang - Full Stack Software Developer
